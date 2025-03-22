@@ -2,11 +2,10 @@
 
 This application provides comprehensive analytics for hotel booking data, including data preprocessing, visualization, and a query interface powered by qdrant vector db and BAAI Embedings search and LLM integration.
 
-
+**#Demo**
 <p align="center">
-  <video src="/DemoVideo.gif" width="500px"></video>
+  <img src="DemoVideo.gif" alt="Video">
 </p>
-
   
 
 ## Features
