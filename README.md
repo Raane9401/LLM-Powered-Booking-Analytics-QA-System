@@ -4,7 +4,7 @@ This application provides comprehensive analytics for hotel booking data, includ
 
 
 <p align="center">
-  <video src="DemoVideo.gif" width="500px"></video>
+  <video src="/DemoVideo.gif" width="500px"></video>
 </p>
 
   
