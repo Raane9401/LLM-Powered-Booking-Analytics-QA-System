@@ -33,14 +33,14 @@ This application provides comprehensive analytics for hotel booking data, includ
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/hotel-booking-analytics.git
+git clone https://github.com/Raane9401/LLM-Powered-Booking-Analytics-QA-System.git
 cd hotel-booking-analytics
 ```
 
 2. **Create a virtual environment**
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate  
 ```
 
 3. **Install dependencies**
@@ -50,13 +50,13 @@ pip install -r requirements.txt
 
 4. **Start Qdrant database**
 
-If  don't have Qdrant running already,  start it with Docker:
+I have used Qdrant Local which i got the image and ran container in local
 
 ```bash
 docker run -p 6333:6333 qdrant/qdrant
 ```
 
-5. **Prepare the dataset**
+5. **Place the dataset**
 
 Place  hotel_bookings.csv file in the project root directory.
 
