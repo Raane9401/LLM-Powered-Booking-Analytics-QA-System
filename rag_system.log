@@ -1,0 +1,363 @@
+2025-03-22 20:58:53,685 - WARNING - From C:\Users\immer\AppData\Roaming\Python\Python310\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-03-22 20:58:53,990 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en
+2025-03-22 20:58:56,184 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2025-03-22 20:58:56,205 - INFO - HTTP Request: DELETE http://localhost:6333/collections/hotel_bookings "HTTP/1.1 200 OK"
+2025-03-22 20:58:57,053 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings "HTTP/1.1 200 OK"
+2025-03-22 20:58:57,758 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:58:58,045 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:58:58,320 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:58:58,560 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:58:58,789 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:58:59,018 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:58:59,246 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:58:59,483 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:58:59,696 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:58:59,900 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:00,125 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:00,319 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:00,542 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:00,745 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:00,964 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:01,173 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:01,400 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:01,621 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:01,842 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:02,063 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:02,298 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:02,542 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:02,768 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:02,979 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:03,206 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:03,399 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:03,613 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:03,815 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:04,019 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:04,224 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:04,433 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:04,660 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:04,879 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:05,089 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:05,317 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:05,538 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:05,740 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:05,927 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:06,125 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:06,324 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:06,516 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:06,680 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:06,876 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:07,091 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:07,287 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:07,495 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:07,701 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:07,901 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:08,118 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:08,318 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:08,531 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:08,735 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:08,944 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:09,134 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:09,338 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 20:59:09,373 - WARNING -  * Debugger is active!
+2025-03-22 20:59:09,377 - INFO -  * Debugger PIN: 424-380-394
+2025-03-22 21:05:15,330 - INFO - Received query: List total number of bookings 
+2025-03-22 21:05:15,422 - INFO - HTTP Request: POST http://localhost:6333/collections/hotel_bookings/points/search "HTTP/1.1 200 OK"
+2025-03-22 21:05:19,535 - INFO - Received query: "What is the average revenue for hotel bookings?
+2025-03-22 21:05:19,661 - INFO - HTTP Request: POST http://localhost:6333/collections/hotel_bookings/points/search "HTTP/1.1 200 OK"
+2025-03-22 21:05:22,341 - INFO - 127.0.0.1 - - [22/Mar/2025 21:05:22] "POST /api/ask HTTP/1.1" 200 -
+2025-03-22 21:05:26,261 - INFO - 127.0.0.1 - - [22/Mar/2025 21:05:26] "POST /api/ask HTTP/1.1" 200 -
+2025-03-22 21:05:56,811 - INFO - 127.0.0.1 - - [22/Mar/2025 21:05:56] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:05:56,838 - INFO - 127.0.0.1 - - [22/Mar/2025 21:05:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-22 21:06:06,060 - INFO - Received query: "What is the average revenue for hotel bookings?
+2025-03-22 21:06:06,159 - INFO - HTTP Request: POST http://localhost:6333/collections/hotel_bookings/points/search "HTTP/1.1 200 OK"
+2025-03-22 21:06:09,449 - INFO - 127.0.0.1 - - [22/Mar/2025 21:06:09] "POST /api/ask HTTP/1.1" 200 -
+2025-03-22 21:06:13,601 - INFO - 127.0.0.1 - - [22/Mar/2025 21:06:13] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:06:22,893 - INFO - 127.0.0.1 - - [22/Mar/2025 21:06:22] "[33mGET /analytics HTTP/1.1[0m" 404 -
+2025-03-22 21:07:01,694 - WARNING - From C:\Users\immer\AppData\Roaming\Python\Python310\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-03-22 21:07:01,945 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en
+2025-03-22 21:07:04,356 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2025-03-22 21:07:04,511 - INFO - HTTP Request: DELETE http://localhost:6333/collections/hotel_bookings "HTTP/1.1 200 OK"
+2025-03-22 21:07:05,133 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings "HTTP/1.1 200 OK"
+2025-03-22 21:07:05,769 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:06,058 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:06,324 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:06,539 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:06,757 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:06,974 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:07,157 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:07,376 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:07,576 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:07,776 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:07,976 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:08,175 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:08,372 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:08,556 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:08,751 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:08,962 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:09,156 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:09,352 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:09,539 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:09,749 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:09,942 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:10,133 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:10,329 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:10,549 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:10,746 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:10,958 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:11,133 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:11,307 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:11,509 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:11,709 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:11,908 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:12,062 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:12,511 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:12,728 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:12,930 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:13,177 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:13,413 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:13,591 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:13,772 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:13,971 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:14,143 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:14,334 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:14,487 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:14,644 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:14,806 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:14,962 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:15,168 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:15,359 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:15,574 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:15,781 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:15,956 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:16,168 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:16,390 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:16,607 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:16,807 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:16,848 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-22 21:07:16,848 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-22 21:07:16,864 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-22 21:07:30,710 - WARNING - From C:\Users\immer\AppData\Roaming\Python\Python310\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-03-22 21:07:31,220 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en
+2025-03-22 21:07:34,016 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2025-03-22 21:07:34,241 - INFO - HTTP Request: DELETE http://localhost:6333/collections/hotel_bookings "HTTP/1.1 200 OK"
+2025-03-22 21:07:35,152 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings "HTTP/1.1 200 OK"
+2025-03-22 21:07:35,822 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:36,122 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:36,399 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:36,632 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:36,884 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:37,118 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:37,333 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:37,551 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:37,745 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:37,935 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:38,124 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:38,290 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:38,495 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:38,711 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:38,895 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:39,079 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:39,295 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:39,503 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:39,702 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:39,908 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:40,087 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:40,317 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:40,540 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:40,765 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:40,961 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:41,147 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:41,355 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:41,559 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:41,734 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:41,930 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:42,135 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:42,310 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:42,514 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:42,699 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:42,856 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:43,055 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:43,219 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:43,431 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:43,598 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:43,768 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:44,001 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:44,201 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:44,389 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:44,546 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:44,713 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:44,873 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:45,082 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:45,304 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:45,537 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:45,765 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:45,979 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:46,147 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:46,351 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:46,546 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:46,805 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:07:46,847 - WARNING -  * Debugger is active!
+2025-03-22 21:07:46,853 - INFO -  * Debugger PIN: 424-380-394
+2025-03-22 21:08:00,523 - INFO - 127.0.0.1 - - [22/Mar/2025 21:08:00] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:08:01,074 - INFO - 127.0.0.1 - - [22/Mar/2025 21:08:01] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:08:05,586 - INFO - 127.0.0.1 - - [22/Mar/2025 21:08:05] "[33mGET /ask HTTP/1.1[0m" 404 -
+2025-03-22 21:08:06,405 - INFO - 127.0.0.1 - - [22/Mar/2025 21:08:06] "[33mGET /ask HTTP/1.1[0m" 404 -
+2025-03-22 21:10:50,873 - INFO -  * Detected change in 'C:\\Users\\immer\\AppData\\Roaming\\Python\\Python310\\site-packages\\matplotlib\\pyplot.py', reloading
+2025-03-22 21:10:53,028 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-22 21:11:07,533 - WARNING - From C:\Users\immer\AppData\Roaming\Python\Python310\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-03-22 21:11:07,860 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en
+2025-03-22 21:11:10,594 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2025-03-22 21:11:10,773 - INFO - HTTP Request: DELETE http://localhost:6333/collections/hotel_bookings "HTTP/1.1 200 OK"
+2025-03-22 21:11:11,389 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings "HTTP/1.1 200 OK"
+2025-03-22 21:11:11,952 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:12,185 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:12,394 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:12,687 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:12,988 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:13,200 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:13,391 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:13,566 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:13,754 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:13,922 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:14,087 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:14,255 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:14,426 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:14,592 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:14,759 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:14,919 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:15,083 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:15,254 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:15,427 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:15,586 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:15,760 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:15,925 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:16,093 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:16,264 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:16,441 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:16,606 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:16,777 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:16,946 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:17,114 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:17,278 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:17,443 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:17,611 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:17,781 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:17,949 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:18,110 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:18,265 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:18,436 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:18,610 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:18,783 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:18,959 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:19,117 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:19,257 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:19,424 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:19,580 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:19,750 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:19,883 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:20,041 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:20,202 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:20,374 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:20,528 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:20,687 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:20,846 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:21,008 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:21,167 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:21,324 - INFO - HTTP Request: PUT http://localhost:6333/collections/hotel_bookings/points?wait=true "HTTP/1.1 200 OK"
+2025-03-22 21:11:21,346 - WARNING -  * Debugger is active!
+2025-03-22 21:11:21,349 - INFO -  * Debugger PIN: 424-380-394
+2025-03-22 21:12:00,166 - WARNING - From C:\Users\immer\AppData\Roaming\Python\Python310\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-03-22 21:12:00,413 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en
+2025-03-22 21:12:02,900 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2025-03-22 21:12:07,587 - INFO - HTTP Request: GET http://localhost:6333/collections/hotel_bookings "HTTP/1.1 200 OK"
+2025-03-22 21:12:07,601 - INFO - HTTP Request: GET http://localhost:6333/collections/hotel_bookings "HTTP/1.1 200 OK"
+2025-03-22 21:12:08,854 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://153.1.152.117:5000
+2025-03-22 21:12:08,854 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-22 21:12:08,862 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-22 21:12:19,119 - WARNING - From C:\Users\immer\AppData\Roaming\Python\Python310\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-03-22 21:12:19,367 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en
+2025-03-22 21:12:21,298 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2025-03-22 21:12:24,038 - INFO - HTTP Request: GET http://localhost:6333/collections/hotel_bookings "HTTP/1.1 200 OK"
+2025-03-22 21:12:24,060 - INFO - HTTP Request: GET http://localhost:6333/collections/hotel_bookings "HTTP/1.1 200 OK"
+2025-03-22 21:12:24,070 - WARNING -  * Debugger is active!
+2025-03-22 21:12:24,073 - INFO -  * Debugger PIN: 424-380-394
+2025-03-22 21:18:37,525 - INFO - 127.0.0.1 - - [22/Mar/2025 21:18:37] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:18:38,249 - INFO - 127.0.0.1 - - [22/Mar/2025 21:18:38] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:18:38,691 - INFO - 127.0.0.1 - - [22/Mar/2025 21:18:38] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:19:11,518 - INFO -  * Detected change in 'C:\\Users\\immer\\Downloads\\Srujan\\Solve\\task_core.py', reloading
+2025-03-22 21:19:11,519 - INFO -  * Detected change in 'C:\\Users\\immer\\Downloads\\Srujan\\Solve\\llm_utils.py', reloading
+2025-03-22 21:19:11,519 - INFO -  * Detected change in 'C:\\Users\\immer\\Downloads\\Srujan\\Solve\\task.py', reloading
+2025-03-22 21:19:13,121 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-22 21:19:23,807 - WARNING - From C:\Users\immer\AppData\Roaming\Python\Python310\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-03-22 21:19:24,078 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en
+2025-03-22 21:19:29,362 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2025-03-22 21:19:34,087 - INFO - HTTP Request: GET http://localhost:6333/collections/hotel_bookings "HTTP/1.1 200 OK"
+2025-03-22 21:19:34,096 - INFO - HTTP Request: GET http://localhost:6333/collections/hotel_bookings "HTTP/1.1 200 OK"
+2025-03-22 21:19:34,108 - WARNING -  * Debugger is active!
+2025-03-22 21:19:34,111 - INFO -  * Debugger PIN: 424-380-394
+2025-03-22 21:19:47,775 - INFO - 127.0.0.1 - - [22/Mar/2025 21:19:47] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:19:48,381 - INFO - 127.0.0.1 - - [22/Mar/2025 21:19:48] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:21:33,146 - INFO - HTTP Request: GET http://localhost:6333/collections/hotel_bookings "HTTP/1.1 200 OK"
+2025-03-22 21:21:36,008 - INFO - 127.0.0.1 - - [22/Mar/2025 21:21:36] "GET /health HTTP/1.1" 200 -
+2025-03-22 21:22:34,005 - INFO - 127.0.0.1 - - [22/Mar/2025 21:22:34] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:22:34,330 - INFO - 127.0.0.1 - - [22/Mar/2025 21:22:34] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:22:34,545 - INFO - 127.0.0.1 - - [22/Mar/2025 21:22:34] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:22:48,675 - INFO -  * Detected change in 'C:\\Users\\immer\\AppData\\Roaming\\Python\\Python310\\site-packages\\langchain_qdrant\\vectorstores.py', reloading
+2025-03-22 21:22:48,736 - INFO -  * Detected change in 'C:\\Users\\immer\\AppData\\Roaming\\Python\\Python310\\site-packages\\langchain_core\\_api\\deprecation.py', reloading
+2025-03-22 21:22:48,779 - INFO -  * Detected change in 'C:\\Users\\immer\\AppData\\Roaming\\Python\\Python310\\site-packages\\matplotlib\\style\\__init__.py', reloading
+2025-03-22 21:22:48,797 - INFO -  * Detected change in 'C:\\Users\\immer\\AppData\\Roaming\\Python\\Python310\\site-packages\\matplotlib\\typing.py', reloading
+2025-03-22 21:22:51,015 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-22 21:23:06,168 - WARNING - From C:\Users\immer\AppData\Roaming\Python\Python310\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2025-03-22 21:23:06,523 - INFO - Load pretrained SentenceTransformer: BAAI/bge-large-en
+2025-03-22 21:23:09,727 - INFO - HTTP Request: GET http://localhost:6333 "HTTP/1.1 200 OK"
+2025-03-22 21:23:12,461 - INFO - HTTP Request: GET http://localhost:6333/collections/hotel_bookings "HTTP/1.1 200 OK"
+2025-03-22 21:23:12,482 - INFO - HTTP Request: GET http://localhost:6333/collections/hotel_bookings "HTTP/1.1 200 OK"
+2025-03-22 21:23:12,495 - WARNING -  * Debugger is active!
+2025-03-22 21:23:12,497 - INFO -  * Debugger PIN: 424-380-394
+2025-03-22 21:24:08,383 - INFO -  * Detected change in 'C:\\Users\\immer\\Downloads\\Srujan\\Solve\\app.py', reloading
+2025-03-22 21:24:08,384 - INFO -  * Detected change in 'C:\\Users\\immer\\Downloads\\Srujan\\Solve\\app.py', reloading
+2025-03-22 21:24:08,384 - INFO -  * Detected change in 'C:\\Users\\immer\\Downloads\\Srujan\\Solve\\app.py', reloading
+2025-03-22 21:24:09,115 - INFO -  * Detected change in 'C:\\Users\\immer\\Downloads\\Srujan\\Solve\\app.py', reloading
+2025-03-22 21:24:09,123 - INFO -  * Detected change in 'C:\\Users\\immer\\Downloads\\Srujan\\Solve\\app.py', reloading
+2025-03-22 21:24:09,124 - INFO -  * Detected change in 'C:\\Users\\immer\\Downloads\\Srujan\\Solve\\app.py', reloading
+2025-03-22 21:24:10,793 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-22 21:25:57,581 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://153.1.152.117:5000
+2025-03-22 21:25:57,581 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-22 21:25:57,588 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-22 21:25:59,632 - WARNING -  * Debugger is active!
+2025-03-22 21:25:59,634 - INFO -  * Debugger PIN: 424-380-394
+2025-03-22 21:26:09,883 - INFO - 127.0.0.1 - - [22/Mar/2025 21:26:09] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:26:11,075 - INFO - 127.0.0.1 - - [22/Mar/2025 21:26:11] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:26:11,703 - INFO - 127.0.0.1 - - [22/Mar/2025 21:26:11] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:26:17,676 - INFO - 127.0.0.1 - - [22/Mar/2025 21:26:17] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:26:18,941 - INFO - 127.0.0.1 - - [22/Mar/2025 21:26:18] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:26:22,301 - INFO - 127.0.0.1 - - [22/Mar/2025 21:26:22] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:26:24,115 - INFO - 127.0.0.1 - - [22/Mar/2025 21:26:24] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:26:44,448 - INFO - 127.0.0.1 - - [22/Mar/2025 21:26:44] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:26:46,035 - INFO - 127.0.0.1 - - [22/Mar/2025 21:26:46] "[33mGET / HTTP/1.1[0m" 404 -
+2025-03-22 21:26:57,929 - INFO - 127.0.0.1 - - [22/Mar/2025 21:26:57] "[33mGET /api HTTP/1.1[0m" 404 -
+2025-03-22 21:27:02,383 - INFO - 127.0.0.1 - - [22/Mar/2025 21:27:02] "[31m[1mGET /api/init HTTP/1.1[0m" 405 -
+2025-03-22 21:27:07,047 - INFO - 127.0.0.1 - - [22/Mar/2025 21:27:07] "[33mGET /api/int HTTP/1.1[0m" 404 -
+2025-03-22 21:27:21,778 - INFO - 127.0.0.1 - - [22/Mar/2025 21:27:21] "[33mGET /ask HTTP/1.1[0m" 404 -
+2025-03-22 21:27:25,885 - INFO - 127.0.0.1 - - [22/Mar/2025 21:27:25] "[33mGET /ask/int HTTP/1.1[0m" 404 -
+2025-03-22 21:32:54,770 - INFO -  * Detected change in 'C:\\Users\\immer\\Downloads\\Srujan\\Solve\\app.py', reloading
+2025-03-22 21:32:54,778 - INFO -  * Detected change in 'C:\\Users\\immer\\Downloads\\Srujan\\Solve\\app.py', reloading
+2025-03-22 21:32:54,779 - INFO -  * Detected change in 'C:\\Users\\immer\\Downloads\\Srujan\\Solve\\app.py', reloading
+2025-03-22 21:32:54,780 - INFO -  * Detected change in 'C:\\Users\\immer\\Downloads\\Srujan\\Solve\\app.py', reloading
+2025-03-22 21:32:55,851 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-22 21:33:32,741 - INFO -  * Restarting with watchdog (windowsapi)
