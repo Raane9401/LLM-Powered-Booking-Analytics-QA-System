@@ -4,10 +4,10 @@ This application provides comprehensive analytics for hotel booking data, includ
 
 
 <p align="center">
-  <video src="DemoVideo.mp4" width="500px"></video>
+  <video src="DemoVideo.gif" width="500px"></video>
 </p>
 
-
+  
 
 ## Features
 
@@ -158,16 +158,6 @@ Returns an answer based on the data, along with performance metrics.
 3. Add more advanced visualizations and interactive dashboards
 4. Improve accuracy evaluation with more sophisticated metrics
 5. Add support for real-time data ingestion and analysis
-
-## File Structure
-
-```
-hotel-booking-analytics/
-├── app.py                  # Flask API server
-├── requirements.txt        # Project dependencies
-├── cleaned_hotel_bookings.csv  # Cleaned dataset
-└── README.md               # Project documentation
-```
 
 
 ## Requirements.txt
